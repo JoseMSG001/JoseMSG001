@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, Soy José Miguel Saavedra González</h1>
 <h3 align="center">Abogado | Developer en formación</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=JoseMSG001&label=Profile%20views&color=0e75b6&style=flat" alt="JoseMSG001" /> </p>
 - 🔭 I’m currently working on **Lawyer**
 
 - 🌱 I’m currently learning **HTML // CSS**
